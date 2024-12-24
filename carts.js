@@ -6,13 +6,13 @@ let activeCarts = [
     cartID: "777",
     cartItems: [
       {
-        title: "Fresh Strawberries",
+        title: "Fresh Lemons hehe",
         description: "Assorted sizes, 2 cartons",
         cost: 200,
         imageUrl: "stawberries.jpg"
       },
       {
-        title: "Fresh Blackberries",
+        title: "Fresh Shahzore Khan testing",
         description: "Assorted sizes, 2 cartons",
         cost: 295,
         imageUrl: "blackberries.jpg"
