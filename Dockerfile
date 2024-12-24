@@ -13,6 +13,8 @@ RUN npm install
 # Copy all the project files to the container
 COPY . .
 
+RUN npm run build
+
 # Expose the port your app runs on (e.g., 3000)
 EXPOSE 3000
 
